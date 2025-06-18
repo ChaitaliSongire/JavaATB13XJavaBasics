@@ -1,4 +1,4 @@
-package Learn_Java_Basics;
+package ex_01_Java_Basic;
 
 public class _abc_Abc_abc {
 }

@@ -1,4 +1,4 @@
-package Learn_Java_Basics;
+package ex_01_Java_Basic;
 
 public class Lab004_Comments {
     public static void main(String[] args) {

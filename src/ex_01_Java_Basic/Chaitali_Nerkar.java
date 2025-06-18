@@ -1,4 +1,4 @@
-package Learn_Java_Basics;
+package ex_01_Java_Basic;
 
 public class Chaitali_Nerkar {
     public static void main(String[] Thiscanbeanything) {
